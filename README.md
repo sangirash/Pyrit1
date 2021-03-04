@@ -1,3 +1,7 @@
+## Disclaimer
+This code of Pyrit is borrowed from @JPaulMora 
+The code is still for Python2 only and this annoys me. I might not add new functionality but will make sure that the code from this repo compiles fine with Python 3.
+
 ## Please Read
 
 Pyrit is old, is outdated and it's still Python2 I am currently attempting to rewrite it from scratch, so thanks for all the stars but remember to keep an eye for Python3 version.
